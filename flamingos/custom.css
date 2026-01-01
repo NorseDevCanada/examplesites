@@ -1,0 +1,116 @@
+@charset "UTF-8";
+body {
+  background-image: url("images/flamingos.jpg");
+  background-color: #606060;
+  background-size: cover;
+  text-align: center;
+}
+h1, h2 {
+  font-family: "exocet", sans-serif;
+  font-weight: 900;
+  font-style: normal;
+  color: #d93d04;
+}
+p {
+  color: #fff;
+  font-size: 23px;
+  display: flex;
+  flex-direction: column;
+}
+body {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+footer {
+  margin-top: auto;
+  height: 60px;
+  line-height: 60px;
+  background-color: #212529;
+  opacity: 0.75;
+}
+.calendar {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px;
+}
+.calendar th, .calendar td {
+  padding: 10px;
+  border: 5px solid #ddd;
+  text-align: left;
+}
+.calendar th {
+  background-color: #f2f2f2;
+  border-color: #ddd;
+}
+.calendar h4 {
+  margin: 10px 0;
+}
+.calendar a {
+  color: #007bff;
+  text-decoration: none;
+}
+.calendar a:hover {
+  text-decoration: underline;
+}
+h4 {
+  color: #fff
+}
+.figure-caption {
+  color: #D93D04;
+  font-size: 24px;
+  font-weight: bold;
+  font-family: "exocet", sans-serif;
+}
+body, p, ul, li {
+  margin: 0;
+  padding: 0;
+}
+.container p {
+  margin-bottom: 15px;
+}
+.container p a {
+  text-decoration: none;
+  color: #D93D04;
+  padding: 5px 10px;
+  border-radius: 5px;
+  background-color: rgba(0, 0, 0, 0.5);
+}
+.container p a:hover {
+  background-color: rgba(0, 0, 0, 1);
+  text-decoration: underline;
+}
+.favlinks {
+  list-style-type: none;
+  background-color: rgba(0, 0, 0, .75);
+  padding: 10px;
+  border-radius: 5px;
+  margin-top: 20px;
+  color: #fff;
+}
+.favlinks li {
+  margin-bottom: 5px;
+}
+.favlinks li a {
+  text-decoration: none;
+  color: #D93D04;
+  font-size: 24px;
+}
+.favlinks li a:hover {
+  text-decoration: underline;
+}
+.container {
+  background-color: rgba(0, 0, 0, 0.75);
+}
+.container h2 {
+  margin-top: 20px;
+  font-size: 24px;
+  font-weight: bold;
+}
+.container p {
+  margin-bottom: 10px;
+  line-height: 1.6;
+}
+.container p strong {
+  font-weight: bold;
+}
