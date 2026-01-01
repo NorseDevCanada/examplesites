@@ -1,0 +1,7 @@
+<div class="container"><img src="images/our-salon.jpg" width="600" height="451" class="img-fluid mb-3 mx-auto d-block" alt="">
+  <p class="lead">Vice Versa: a salon where beautiful cuts and color peacefully coexist with the best in natural hair care. Synthetic fragrances and toxic ingredients have no place in our salon, but don’t think we’re a dippy patchouli palace; style’s still our obsession.</p>
+  <p>The brands we choose to use are gentle, fume-free, and ideal for people with chemical sensitivities or color junkies concerned about their hair’s health. Our exclusive aromatherapy bleach is the only one of its kind - and we’re the only place you can find it on the East Coast. One of our herbal color lines can even be safely used by pregnant women.</p>
+  <p>Herbal colors offer long-lasting color and shine without harming the environment. We only use non-herbal products for off-the-scalp techniques, and only when necessary.</p>
+  <p>Our salon is located on one of the East Village’s most charming blocks, and our intimate setting (just two chairs!) lets you relax--and lets us give you our complete attention.</p>
+  <p>So step inside, sip a fruit juice, and get ready for healthy hair!</p>
+</div>

@@ -1,0 +1,33 @@
+<div class="container">
+  <div class="row">
+    <div class="col-sm-6 col-md-4 col-lg-3">
+      <h2>Address</h2>
+      <p>226 east 3rd street nyc <br>
+        <a href="mailto:info@viceversa.com">info@viceversa.com</a><br>
+        <a href="tel:12122535490">+1 212 253 5490</a> </p>
+    </div>
+    <div class="col-sm-6 col-md-8 col-lg-4">
+      <h2>Hours</h2>
+      <div class="row">
+        <div class="col-4">Sunday</div>
+        <div class="col-8">CLOSED</div>
+        <div class="col-4">Monday</div>
+        <div class="col-8">10:00AM – 5:00PM</div>
+        <div class="col-4">Tuesday</div>
+        <div class="col-8">10:00AM – 5:30PM</div>
+        <div class="col-4">Wednesday</div>
+        <div class="col-8">10:00AM – 8:00PM</div>
+        <div class="col-4">Thursday</div>
+        <div class="col-8">10:00AM – 8:00PM</div>
+        <div class="col-4">Friday</div>
+        <div class="col-8">10:00AM – 8:00PM</div>
+        <div class="col-4">Saturday</div>
+        <div class="col-8">10:00AM – 6:00PM</div>
+      </div>
+    </div>
+    <div class="col-lg-5 mt-3 mt-sm-0">
+      <h2>Find Us</h2>
+      <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3023.8123133957915!2d-73.98434218406531!3d40.72214804493062!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c259789062e945%3A0xf2ac4e4e6edb1e5c!2s226+E+3rd+St%2C+New+York%2C+NY+10009%2C+USA!5e0!3m2!1sen!2sar!4v1523919066467" width="400" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>
+    </div>
+  </div>
+</div>

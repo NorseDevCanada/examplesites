@@ -1,0 +1,28 @@
+<div class="container">
+  <div class="row">
+    <div class="col-12 col-md-4 d-flex align-items-stretch mb-3">
+      <div class="card"> <img class="card-img-top" src="images/niki.png" alt="">
+        <div class="card-body">
+          <h5 class="card-title">Niki Andreasen</h5>
+          <p class="card-text">Niki Andreasen has worked as a hair and makeup stylist in New York City for the past 22 years. Niki’s signature dry cutting technique allows her to better contour the shape of the hair. Working with hair in its dry state lets her sculpt hard-to-control thick hair and takes the mystery out of cutting hair wet. Niki’s work as a painter informs her color sensibility; her highlights are never shy, and her willingness to experiment ensures her more daring clientele always leave satisfied.</p>
+        </div>
+      </div>
+    </div>
+    <div class="col-12 col-md-4 d-flex align-items-stretch mb-3">
+      <div class="card"> <img class="card-img-top" src="images/sunny.png" alt="">
+        <div class="card-body">
+          <h5 class="card-title">Sunny Nan Koedsiri</h5>
+          <p class="card-text">Sunny Nan Koedsiri moved to NYC from Thailand in 1999. Trained by celebrity stylist Andre Martheleur at Cinandre, Niki honed her skills freelancing and doing editorial work. An absolute natural talent with a pair of scissors Nan has gained a devoted following. She loves design, fashion, exploring New York and practicing her language skills.</p>
+        </div>
+      </div>
+    </div>
+    <div class="col-12 col-md-4 d-flex align-items-stretch mb-3">
+      <div class="card"> <img class="card-img-top" src="images/yuki.png" alt="">
+        <div class="card-body">
+          <h5 class="card-title">Yuki Ushiki</h5>
+          <p class="card-text">Yuki Ushiki perfected his haircutting genius in the salons of Tokyo and London. Creative and enthusiastic, Yuki loves to get to know his clients and suit styles to their needs. His cuts are precise and artistic simultaneously. Can’t decide which film to see on your next trip to the Sunshine? Yuki is a diehard movie buff who will point you in the right direction. In addition to the cinema, he enjoys live concerts and eating his favorite food, tempura.</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

@@ -1,0 +1,55 @@
+@charset "utf-8";
+body {
+    background-color: #304761;
+    background-image: url("bgs/black_paper.png");
+    margin: 20 px;
+    color: #fff;
+font-family: "tarif", sans-serif;
+font-weight: 700;
+font-style: normal;
+}
+
+.jumbotron {
+	background-color: #305D91 !important;
+}
+.bg-light {
+    background-color: #f8f9fa !important;	
+}
+.display-4 {
+font-family: "sneakers-pro", sans-serif;
+font-weight: 500;
+font-style: normal;
+}
+.lead {
+font-family: "aptly", sans-serif;
+font-weight: 700;
+font-style: normal;
+}
+
+.col-12.col-sm-6.col-md-4.col-lg-3 img {
+border: 2px solid #ffffff;
+}
+
+a {
+	color: #02A6A8;
+}
+a:hover {
+ color: firebrick
+}
+.card {
+	border: solid color #fff;
+	background-color: slategray
+}
+.card-title {
+    color: #fff;
+    font-family: "sneakers-pro", sans-serif;
+    font-weight: 100;
+    font-style: oblique;
+}
+.card-text {
+	color: #fff;
+	font-family: "aptly", sans-serif;
+	font-weight: 100;
+	font-style: normal;
+}
+
