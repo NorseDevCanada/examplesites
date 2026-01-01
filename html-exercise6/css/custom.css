@@ -1,0 +1,84 @@
+header {
+  background-color: #0f1b40;
+  color: #d9b596; 
+  font-size: 32px;
+  font-weight: bold;
+}
+
+
+body {
+  background-image: url("../images/classes.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-color: #3b5e8c;
+  font-family: "Zen Loop", cursive;
+  font-weight: bold;
+  font-style: normal;
+  font-size: 32px;
+  color: #000;
+}
+img {
+  float: left;
+}
+article {
+    color: #fff;
+    padding: 100px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+aside {
+    color: #fff;
+    margin-left: 10px;
+    margin-right: 10px;
+    padding: 20px;
+}
+footer {
+clear: both;
+background-color: #0f1b40;
+color: #d9b596;
+text-align: center;
+font-size: 32px;
+font-weight: bold;
+}
+#footer {
+   position:absolute;
+   bottom:0;
+   width:100%;
+}
+h1, h2, h3{
+  font-family: "Zen Loop", cursive;
+  font-weight: 200;
+  font-style: normal;
+}
+.logo {
+  visited: #f2d8d5;
+  color: #f2d8d5;
+  font-family: "Zen Loop", cursive;
+  font-weight: bold;
+}
+ul {
+  list-style-type: none;
+  overflow: hidden;
+  background-color: #333;
+}
+li {
+  list-style-type: none;
+  float: left;
+
+}
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  padding: 14px 16px;
+}
+li a:hover {
+  background-color: #111;
+}
+.box {
+  background-color: rgba(0,0,0,.5);
+  color: #fff;
+  margin-bottom: 20px;
+}
