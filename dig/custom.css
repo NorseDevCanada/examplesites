@@ -1,0 +1,164 @@
+@charset "UTF-8";
+/*header*/
+header .container {
+  padding: 40px 0;
+  position: relative;
+}
+header {
+  background-color: #df9e38;
+}
+#banner {
+  background-color: #c4d4f2;
+}
+#pots {
+  background-color: #fff;
+}
+#instagram {
+  background-color: #8c7a70;
+}
+#workshop {
+  background-color: #c4d4f2;
+}
+footer {
+  background-color: #df9e3b;
+}
+body {
+  font-family: "jaf-domus-titling-web", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+}
+h1, h2, h3, h4, strong, figcaption {
+  font-family: "jaf-domus-titling-web", sans-serif;
+  font-weight: 800;
+  font-style: normal;
+}
+/*header*/
+header .container {
+  padding: 40px 0;
+  position: relative;
+}
+@media (max-width: 767px) {
+  header #logo {
+    display: block;
+    margin: 0 auto;
+  }
+}
+header ul#social {
+  text-align: center;
+}
+header #address {
+  text-align: center;
+  line-height: 2;
+}
+@media (min-width: 768px) {
+  ul#social {
+    position: absolute;
+    top: 40px;
+    right: 0px;
+  }
+  #address {
+    font-size: 16px;
+    position: absolute;
+    bottom: 40px;
+    right: 0px;
+  }
+}
+/*banner*/
+#banner h1 {
+  color: #000;
+}
+figure {
+  position: relative;
+}
+figcaption {
+  position: absolute;
+  bottom: 20px;
+  left: 0;
+}
+figcaption span {
+  color: white;
+  font-size: 24px;
+  line-height: 45px;
+  background: rgb(0, 0, 0);
+  background: rgba(0, 0, 0, 0.7);
+  padding: 10px;
+}
+figcaption span.spacer {
+  padding: 0 2px;
+  background: none;
+}
+#banner .container {
+  padding-bottom: 40px;
+}
+/*pots*/
+#pots h2 {
+  color: #000;
+}
+#pots {
+  position: relative;
+  padding-bottom: 80px;
+}
+#tagline {
+  position: absolute;
+  bottom: 0px;
+  right: 0px;
+  font-size: 100px;
+  line-height: 1;
+  text-align: right;
+  color: #f2d230;
+}
+/*instagram*/
+#instagram h2 {
+  color: #fff
+}
+#instagram img {
+  border: 10px double #FFF;
+  margin-bottom: 30px;
+}
+@media (min-width: 768px) and (max-width: 991px) {
+  #instagram1 {
+    position: relative;
+  }
+  #instagram2 {
+    position: relative;
+  }
+  #instagram3 {
+    position: relative;
+    left: 40px;
+  }
+  #instagram4 {
+    position: relative;
+    top: 80px;
+  }
+  #instagram5 {
+    position: relative;
+  }
+  #instagram6 {
+    position: relative;
+  }
+  #instagram7 {
+    position: relative;
+  }
+}
+/*workshop*/
+#workshop h2 {
+  color: #fff
+}
+#workshop .container {
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+/*footer*/
+#asterisk {
+  position: absolute;
+  top: -130px;
+  left: 0px;
+  font-size: 200px;
+  line-height: 1;
+  color: #df9e3b;
+}
+footer .container {
+  padding-top: 80px;
+  padding-bottom: 40px;
+  position: relative;
+}
